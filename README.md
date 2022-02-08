@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-![alt-text](https://undo.io/media/uploads/files/Frustrated_programmer_qeR3D5O.gif)
+![alt-text](https://i.pinimg.com/originals/37/88/f5/3788f590a3342071e16957d047bc43d3.gif)
 
 
 - :mortar_board: I'm a final year mathematics student at university.
