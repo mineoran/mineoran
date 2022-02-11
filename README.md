@@ -8,3 +8,4 @@
 - 🔭 I’m currently working on Data Science and Machine Learning.
 - 🌱 I’m currently learning artificial intelligence.
 - 📫 Feel free to reach me out from: mineeoraan@gmail.com
+- ![](https://komarev.com/ghpvc/?username=mineoran&color=green)
